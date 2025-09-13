@@ -12,4 +12,7 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
+  </url><url>
+    <loc>http://localhost:1313/music/</loc>
+  </url>
 </urlset>
